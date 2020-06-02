@@ -1,6 +1,8 @@
 # AuthoringAssistantJava
 
 Authoring-Assistant-Java
+This was a project that I worked on with a group for my Java class in Fall 2019 at TCC.
+
 (1) Prompt the user to enter a string of their choosing. Store the text in a string. Output the string. (1 pt)
 
 
